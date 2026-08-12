@@ -1,4 +1,4 @@
-# StarGame
+# star-game
 
 A 2D space shooter built with **Java** and **libGDX** (1.9.9). Pilot a starfighter that descends, dodges and destroys waves of enemy ships while keeping your health and score up.
 
